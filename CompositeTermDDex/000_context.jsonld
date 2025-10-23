@@ -1,0 +1,27 @@
+{
+  "@context": {
+    "@base": "https://espri-mod.github.io/mip-cmor-tables/CompositeTermDDex/",
+    "id": "@id",
+    "type": "@type",
+    "parts": {
+      "@id": "https://espri-mod.github.io/mip-cmor-tables/member_id_parts",
+      "@type": "@id",
+      "@container": "@list",
+      "@context": {
+        "id": "@id",
+        "PatternTermDDex": {
+          "@id": "https://espri-mod.github.io/mip-cmor-tables/PatternTermDDex",
+          "@context": {
+            "@base": "https://espri-mod.github.io/mip-cmor-tables/PatternTermDDex/"
+          }
+        },
+        "PlainTermDDex": {
+          "@id": "https://espri-mod.github.io/mip-cmor-tables/PlainTermDDex",
+          "@context": {
+            "@base": "https://espri-mod.github.io/mip-cmor-tables/PlainTermDDex/"
+          }
+        }
+      }
+    }
+  }
+}
