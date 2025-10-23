@@ -1,0 +1,19 @@
+{
+  "id": "comp1",
+  "separator": "-",
+  "parts": [
+    {
+      "type": "PatternTermDDex",
+      "id": "ot",
+      "is_required": false
+    },
+    {
+      "type": "PlainTermDDex",
+      "id": "term1",
+      "is_required": true
+    }
+  ],
+  "description": "first Composite",
+  "type": "CompositeTermDDex",
+  "@context": "000_context.jsonld"
+}
