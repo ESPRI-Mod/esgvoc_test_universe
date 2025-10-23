@@ -1,0 +1,6 @@
+{
+  "@context": "000_context.jsonld",
+  "id": "term2",
+  "type": "PlainTermDDex",
+  "drs_name": "TeRm2"
+}

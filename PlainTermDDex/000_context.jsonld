@@ -1,0 +1,7 @@
+{
+  "@context": {
+    "@base": "https://espri-mod.github.io/mip-cmor-tables/PlainTermDDex/",
+    "id": "@id",
+    "type": "@type"
+  }
+}
