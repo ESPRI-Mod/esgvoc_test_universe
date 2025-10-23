@@ -1,0 +1,7 @@
+{
+  "@context": "000_context.jsonld",
+  "id": "ot",
+  "type": "PatternTermDDex",
+  "regex": "^oT$",
+  "description": "something"
+}
